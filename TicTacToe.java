@@ -24,7 +24,7 @@ public class TicTacToe {
 
         //Collecting 2 players name
         System.out.println("Enter two players name: ");
-        System.out.print("player 1 name: ");
+        System.out.print("Player 1 name: ");
         String p1 = scan.next();
         System.out.print("Player 2 name: ");
         String p2 = scan.next();
